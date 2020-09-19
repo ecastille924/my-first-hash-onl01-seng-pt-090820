@@ -1,4 +1,4 @@
-def my_hash 
+def my_hash
   your_hash = {shoes => "Reebok Classic", jeans => "Whatever fits", shirt => "Classic Rock Tee"}
 end
 
