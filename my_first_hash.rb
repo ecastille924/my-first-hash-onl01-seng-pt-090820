@@ -1,5 +1,5 @@
-def my_hash
-  your_hash = {shoes => "Reebok Classic", jeans => "Whatever fits", shirt => "Classic Rock Tee"}
+def my_hash(your_hash)
+  your_hash = {"shoes" => "Reebok Classic", "jeans" => "Whatever fits", "shirt" => "Classic Rock Tee"}
 end
 
 
